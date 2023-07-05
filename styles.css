@@ -1,15 +1,7 @@
-p{
-    color: blue;
-    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: large;
-    font-style: italic;
-}
 
 h1{
-    color: aquamarine;
-}
-h2{
-    color: brown;
+    color: darkslategrey;
+    text-align: center;
 }
 
 h3{
@@ -17,5 +9,6 @@ h3{
 }
 
 .section{
-    color: red;
+    
+    padding-left: 30px;
 }
